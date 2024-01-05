@@ -1,6 +1,6 @@
 # simple-react-flex-grid
 
-![Example Grid Layout](./example-grid.png)
+![Example Grid Layout](https://github.com/meaghanbass/simple-react-flex-grid/blob/main/example-grid.png)
 
 A simple flex-grid package for React, that utilizes almost all of the same functionalities as [Emotion Flex Grid](https://www.npmjs.com/package/emotion-flex-grid), but without any additional packages or theming requirements, and is compatible with NextJS App Router.
 
