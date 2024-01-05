@@ -1,0 +1,11 @@
+{
+  "name": "simple-react-flex-grid",
+  "version": "1.1.1",
+  "description": "A simple, responsive flexbox grid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
